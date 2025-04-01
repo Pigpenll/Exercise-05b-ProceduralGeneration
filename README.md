@@ -1,5 +1,5 @@
-# Exercise-05a-Movement
-
+# Exercise-05b-ProceduralGeneration
+Generating a random maze with unique paths
 
 ## Implementation
 
@@ -8,4 +8,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Ben Peters
